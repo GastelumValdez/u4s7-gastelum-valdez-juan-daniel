@@ -12,6 +12,6 @@ https://u4s7-hernandez-nunez-maria-jose.onrender.com
 Paginación, búsqueda simple y estado vacío agregados al listado.
 <!-- segunda línea: los hallazgos de tu compañero y cómo los corregiste -->
 Hallazgos de la UI review corregidos:
-Buscador con validaciones.
-Impresión de un mensaje en caso de que las validaciones no coincidan con ningún elemento.
-Paginación con 5 elementos por página.
+- Buscador con validaciones.
+- Impresión de un mensaje en caso de que las validaciones no coincidan con ningún elemento.
+- Paginación con 5 elementos por página.
